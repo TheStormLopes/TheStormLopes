@@ -2,7 +2,7 @@ Opa, tudo bem?
 Eu sou Felipe lopes, seja bem vindo ao meu Github.
 
 
-- 🔭 Estou começando a estudar programação
+- 🔭 Estou começando a estudar programação Front End.
 - 🌱 Atualmente estou estudando HTML, CSS e JAVASCRIPT
 - 📩 Caso queira entrar em contato, meu e-mail é: lopes.felipeesi@outlook.com
 
