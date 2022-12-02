@@ -1,16 +1,13 @@
-### Hi there 👋
+Opa, tudo bem?
+Eu sou Felipe lopes, seja bem vindo ao meu Github.
 
-<!--
-**TheStormLopes/TheStormLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Estou começando a estudar programação
+- 🌱 Atualmente estou estudando HTML, CSS e JAVASCRIPT
+- 📩 Caso queira entrar em contato, meu e-mail é: lopes.felipeesi@outlook.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://https://github.com/TheStormLopes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheStormLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStormLopes&layout=compact&langs_count=5&theme=dracula"/>
+</div>
